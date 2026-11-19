@@ -2,12 +2,8 @@
 
 from bs4 import BeautifulSoup
 import requests
-import pandas as pd
-import gspread
-from google.oauth2.service_account import Credentials
 from googletrans import Translator
 import asyncio
-import altair as alt
 import streamlit as st
 
 
